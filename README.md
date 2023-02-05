@@ -1,4 +1,10 @@
 <div align="center">
+<h1>stop16's blog</h1>
+About my life&developing
+</div>
+my theme :)
+
+<div align="center">
   <br>
 
   <a href="https://github.com/jeffreytse/jekyll-theme-yat">
