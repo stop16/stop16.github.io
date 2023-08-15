@@ -31,6 +31,8 @@ copyright: Copyright © 2023
 description: >- # this means to ignore newlines until "baseurl:"
   Stop16의 좌충우돌 개발이야기입니다.
 
+remote_theme: "jeffreytse/jekyll-theme-yat"
+
 baseurl: "" # the subpath of your site, e.g. /blog
 url: https://stop16.github.io # the base hostname & protocol for your site, e.g. http://example.com
 favicon: "" # the favicon for your site
